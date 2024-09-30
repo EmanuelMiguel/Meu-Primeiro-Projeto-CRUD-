@@ -12,9 +12,13 @@ Funcionalidades Principais:
 *Interface Intuitiva: A interface foi projetada para ser amigável e responsiva, facilitando a interação do usuário.
 
 Tecnologias Utilizadas:
+
 *Python: Linguagem de programação principal.
+
 *customtkinter: Biblioteca para a criação de interfaces gráficas.
+
 *tkcalendar: Biblioteca para a entrada de datas.
+
 *SQLite: Banco de dados leve para armazenamento de dados.
 
 Explicando as partes do Projeto (simplificado): 

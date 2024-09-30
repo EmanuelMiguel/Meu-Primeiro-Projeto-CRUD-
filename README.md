@@ -5,6 +5,7 @@ Descrição do Projeto: Sistema de Cadastro de Clientes (CRUD):
 "Bem, esse códgio é simples por mas de seja grande, fiz de tudo para que ele seja o mais legivel possível para quem irá ler!"
 
 #####Funcionalidades Principais#####
+
 *Cadastro de Clientes: Permite a entrada de informações como Nome, CPF, Email, Telefone, Data de Vencimento e Observações.
 
 *Visualização de Dados: Exibe os dados cadastrados em um Treeview, permitindo fácil navegação e seleção de registros.
@@ -18,6 +19,7 @@ Descrição do Projeto: Sistema de Cadastro de Clientes (CRUD):
 *Interface Intuitiva: A interface foi projetada para ser amigável e responsiva, facilitando a interação do usuário.
 
 #####Tecnologias Utilizadas#####
+
 *Python: Linguagem de programação principal.
 
 *customtkinter: Biblioteca para a criação de interfaces gráficas.
@@ -27,6 +29,7 @@ Descrição do Projeto: Sistema de Cadastro de Clientes (CRUD):
 *SQLite: Banco de dados leve para armazenamento de dados.
 
 #####Explicando as partes do Projeto (simplificado)#####
+
 *O arquivo "main.py" roda a interface gráfica com algumas funções.
 
 *O arquivo "banco.py" é aonde eu importo o SQLite crio o banco de dados e faço a conexão, além de definir o criar banco de dados caso não exista nenhum.
@@ -36,6 +39,7 @@ Descrição do Projeto: Sistema de Cadastro de Clientes (CRUD):
 *O arquivo "icon_projeto1.ico" é para definir a aparência do ícone que representa o aplicativo no sistema operacional.
 
 #####Observações/Curiosidades#####
+
 *O banco de dados é criado sozinho caso não haja nenhum, ele cria automaticamente e deixa na pasta com o nome "dados.db".
 
 *O código é totalmente maleável e de fácil entendimento, creio que as cores para os botões não foram uma boa escolha, mas isso é totalmente alterável.

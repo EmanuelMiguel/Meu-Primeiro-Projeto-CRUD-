@@ -17,7 +17,7 @@ Tecnologias Utilizadas:
 *tkcalendar: Biblioteca para a entrada de datas.
 *SQLite: Banco de dados leve para armazenamento de dados.
 
-Explicando as partes do Proejeto (simplificado): 
+Explicando as partes do Projeto (simplificado): 
 *O arquivo "main.py" roda a interface gráfica com algumas funções.
 *O arquivo "banco.py" é aonde eu importo o SQLite crio o banco de dados e faço a conexão, além de definir o criar banco de dados caso não exista nenhum.
 *O arquivo "view.py" é aonde ficam as funções que estão "vinculadas" aos botões. Funcões: (C)INSERIR // (R)MONSTRAR // (U)ATUALIZAR // (D)DELETAR (CRUD).
